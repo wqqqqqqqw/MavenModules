@@ -8,9 +8,6 @@ public class MainDZ9 {
 
     public static void main(String[] args) {
 
-        //////////////////////////////////////
-        // ДОПИСАТЬ ГЕНЕРИКИ
-
         IService s1 = new ServiceImpl1();
         IService s2 = new ServiceImpl2();
         IService s3 = new ServiceImpl3();
