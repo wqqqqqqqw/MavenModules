@@ -24,8 +24,8 @@ public class Person {
     public String toString() {
         return new String(
                  " Имя: "
-                         + getName() + "; " +
-                        "возраст: "
-                         + getAge() + "\n");
+                    + getName() + "; " +
+                 "возраст: "
+                    + getAge() + "\n");
     }
 }
